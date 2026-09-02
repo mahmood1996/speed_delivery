@@ -26,6 +26,7 @@ On-demand Q-Commerce app for food and groceries with live order tracking.
 I collaborated as part of the mobile team at **Troylab**, contributing to the design, development, and release of this application on the app stores.
 
 ### Key Contributions
+- Led architectural decisions for features during development.
 - Built and maintained core features in the iOS/Android app.
 - Implemented UI components following the design system.
 - Integrated REST APIs with the backend team.
